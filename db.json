@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Rodrigo",
+      "empresa": "Zero",
+      "email": "rodri.rirs@gmail.com",
+      "telefono": "098038528",
+      "notas": "Nota random",
+      "id": 1
+    },
+    {
+      "nombre": "Rodrigo 2",
+      "empresa": "Zero",
+      "email": "rodri.rirs@gmail.com",
+      "telefono": "098038528",
+      "notas": "Nota random",
+      "id": 2
+    },
+    {
+      "nombre": "Rodrigo",
+      "empresa": "Zero FB",
+      "email": "rodri.rirs@gmail.com",
+      "telefono": "098038528",
+      "notas": "",
+      "id": 3
+    }
+  ]
+}
