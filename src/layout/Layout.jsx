@@ -12,9 +12,9 @@ const Layout = () => {
         <nav className="mt-10">
           <Link
             className={`${
-              urlActual === "/clientes" ? "text-blue-300" : "text-white"
+              urlActual === "/" ? "text-blue-300" : "text-white"
             } text-2xl block mt-2 hover:text-blue-300`}
-            to="/clientes"
+            to="/"
           >
             Clientes
           </Link>
